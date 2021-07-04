@@ -1,5 +1,5 @@
 
-const instance = "http://searcheduapiii.searchedu.co.in:4112"
+const instance = "api url here!."
 
 export const Urls = {
     sampleUrl:instance+"/sample"
